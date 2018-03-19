@@ -1,4 +1,4 @@
-Silex Skeleton
+Silex SkeletonONEMASTER
 ==============
 
 Welcome to the Silex Skeleton - a fully-functional Silex application that you
