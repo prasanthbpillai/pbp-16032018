@@ -1,4 +1,4 @@
-Silex Skeleton
+Silex SkeletonTEST1
 ==============
 
 Welcome to the Silex Skeleton - a fully-functional Silex application that you
